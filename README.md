@@ -1,5 +1,5 @@
 # MITxPro-PacMen-Exercise
-This is PacMen Exercise Repo for MITxPro Bootcamp's Github Portfolio Project. This exercise is to create a pacman on demand (button click) up to 100 and move these pacmen (button click) across the page
+This is PacMen Exercise Repo for MITxPro Bootcamp's Github Portfolio Project. This exercise is to create a pacman on demand (button click) up to 100 and move these pacmen (button click) across the page.
 
 # How to Run: 
 When user click the "Add PacMan" button, a new pacman should appear at a random position on the screen.
@@ -7,7 +7,7 @@ When user click the "Start Game" button, the pacman or pacmen created should sta
 When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
 
 # Roadmap of Future Improvements 
-I am planning to work on: 1. adding a stop PacMen button to stop running the program anytime  2. building a canvas to only allow PacMen running inside the canvas 3. adding clear PacMen button to clear the page
+I am planning to work on: 1. adding a stop PacMen button to stop running the program anytime  2. building a canvas to only allow PacMen running inside the canvas 3. adding clear PacMen button to clear the page.
 
 # License Information 
 Copyright (c) 2022 yxz674 Cecilia Zhang
